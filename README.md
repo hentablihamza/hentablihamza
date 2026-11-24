@@ -14,6 +14,8 @@ Python · RDKit · scikit-learn · PyTorch · Cheminformatics & virtual screenin
 
 I am building practical, reusable open-source tools for cheminformatics and QSAR, with an emphasis on workflows that researchers and students can apply to real bioactivity data.
 
+- **[chem-curate](https://github.com/hentablihamza/chem-curate)** — Reproducible bioactivity and chemical structure curation pipeline (RDKit standardization, unit harmonization, duplicate aggregation, PAINS/Brenk alerts, and audit reports) for QSAR and ML drug discovery.
+
 ## Selected Publications
 
 - **The Last Mile Problem: A Critical Assessment of Physics-Based and AI Tools for Small Molecule Binding Prediction in Virtual Screening.** *Journal of Chemical Information and Modeling*, 2026. [doi:10.1021/acs.jcim.6c00942](https://doi.org/10.1021/acs.jcim.6c00942)
