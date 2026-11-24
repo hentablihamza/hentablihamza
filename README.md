@@ -15,6 +15,7 @@ Python · RDKit · scikit-learn · PyTorch · Cheminformatics & virtual screenin
 I am building practical, reusable open-source tools for cheminformatics and QSAR, with an emphasis on workflows that researchers and students can apply to real bioactivity data.
 
 - **[chem-curate](https://github.com/hentablihamza/chem-curate)** — Reproducible bioactivity and chemical structure curation pipeline (RDKit standardization, unit harmonization, duplicate aggregation, PAINS/Brenk alerts, and audit reports) for QSAR and ML drug discovery.
+- **[qsar-split-bench](https://github.com/hentablihamza/qsar-split-bench)** — Benchmark random, scaffold, Butina cluster, and time splits side by side to measure data leakage and optimistic bias in QSAR and ML drug discovery.
 
 ## Selected Publications
 
