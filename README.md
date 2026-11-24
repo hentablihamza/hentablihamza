@@ -17,6 +17,7 @@ I am building practical, reusable open-source tools for cheminformatics and QSAR
 - **[chem-curate](https://github.com/hentablihamza/chem-curate)** — Reproducible bioactivity and chemical structure curation pipeline (RDKit standardization, unit harmonization, duplicate aggregation, PAINS/Brenk alerts, and audit reports) for QSAR and ML drug discovery.
 - **[qsar-split-bench](https://github.com/hentablihamza/qsar-split-bench)** — Benchmark random, scaffold, Butina cluster, and time splits side by side to measure data leakage and optimistic bias in QSAR and ML drug discovery.
 - **[chembl-easy](https://github.com/hentablihamza/chembl-easy)** — Search ChEMBL and download clean, ML-ready bioactivity data, solving common access problems (timeouts and retries, caching, pagination, ambiguous targets, mixed units, duplicate measurements, SMILES search) for students and researchers.
+- **[practical-cheminformatics-course](https://github.com/hentablihamza/practical-cheminformatics-course)** — Hands-on 12-notebook course taking students and researchers from RDKit basics to QSAR modeling, honest validation, and virtual screening, each notebook running in Google Colab with one click on small real public datasets.
 
 ## Selected Publications
 
