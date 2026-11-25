@@ -23,6 +23,7 @@ I am building practical, reusable open-source tools for cheminformatics and QSAR
 - **[docking-made-easy](https://github.com/hentablihamza/docking-made-easy)** — Reproducible AutoDock Vina docking: protein preparation, a search box computed automatically from the co-crystal ligand, ligand preparation from SMILES, batch screening, tidy result tables, and a symmetry-corrected redocking check against the crystal pose (1.15 Å on EGFR/erlotinib, PDB 1M17).
 - **[fingerprint-similarity-guide](https://github.com/hentablihamza/fingerprint-similarity-guide)** — Benchmark-backed 12-notebook guide to which molecular fingerprint and similarity metric work best for which task — virtual screening, scaffold hopping, activity cliffs, and nearest-neighbour QSAR — with every number computed from executed code on public data (DUD-E EGFR, ChEMBL, Delaney ESOL), each notebook running in Google Colab with one click.
 - **[schrodinger-hpc](https://github.com/hentablihamza/schrodinger-hpc)** — SLURM job scripts and license-free Python tools for running Schrödinger (Glide docking, LigPrep) at scale on academic HPC, with ligand and binding-pocket extraction helpers.
+- **[attention-explained](https://github.com/hentablihamza/attention-explained)** — A step-by-step, figure-rich course explaining the attention mechanism and transformers from scratch through NLP, with runnable toy examples you can open in Google Colab.
 
 ## Selected Publications
 
