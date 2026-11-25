@@ -24,6 +24,7 @@ I am building practical, reusable open-source tools for cheminformatics and QSAR
 - **[fingerprint-similarity-guide](https://github.com/hentablihamza/fingerprint-similarity-guide)** — Benchmark-backed 12-notebook guide to which molecular fingerprint and similarity metric work best for which task — virtual screening, scaffold hopping, activity cliffs, and nearest-neighbour QSAR — with every number computed from executed code on public data (DUD-E EGFR, ChEMBL, Delaney ESOL), each notebook running in Google Colab with one click.
 - **[schrodinger-hpc](https://github.com/hentablihamza/schrodinger-hpc)** — SLURM job scripts and license-free Python tools for running Schrödinger (Glide docking, LigPrep) at scale on academic HPC, with ligand and binding-pocket extraction helpers.
 - **[attention-explained](https://github.com/hentablihamza/attention-explained)** — A step-by-step, figure-rich course explaining the attention mechanism and transformers from scratch through NLP, with runnable toy examples you can open in Google Colab.
+- **[practical-nlp-course](https://github.com/hentablihamza/practical-nlp-course)** — Hands-on 12-notebook NLP course covering classical text representation, from one-hot vectors and Bag-of-Words through TF-IDF, n-grams, topic models, and word embeddings, up to classic ML text classification and honest evaluation, each notebook running in Google Colab with one click.
 
 ## Selected Publications
 
